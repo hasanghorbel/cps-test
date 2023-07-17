@@ -10,5 +10,4 @@ npm install
 npm run dev
 ```
 
-
-![test](https://github.com/IsekaiCode/cps-test/assets/109307799/71b53c60-141a-4c36-b4fc-63391f3e25fe)
+![test](https://github.com/IsekaiCode/cps-test/assets/109307799/59f110f1-585f-4466-acfa-443f86d095a6)
