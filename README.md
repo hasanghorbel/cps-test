@@ -1,5 +1,5 @@
-# cps-test
-test your averge clicks per second
+# CPS-Test
+Test your averge clicks per second
 #### Create vite-app with command:
 ```
 npm create vite@latest
