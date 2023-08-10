@@ -1,4 +1,4 @@
-# CPS-Test
+# CPS Test
 ## Test your averge clicks per second
 ### Clone repo and run commands:
 ```
